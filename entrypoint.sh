@@ -1,4 +1,5 @@
 #!/bin/bash -l
+set -e
 
 appname=$1
 createprofile=$2
